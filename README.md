@@ -1,4 +1,4 @@
-# Assembly Pacman Hackrom
+# NES Pacman Hackrom
 
 
 Actually *it is not* a real game. You can only move Pacman in 4 axis directions with **arrow keys** without any collision kind.
